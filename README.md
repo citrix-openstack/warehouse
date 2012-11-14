@@ -10,10 +10,12 @@ http://github.com/downloads/citrix-openstack/warehouse/tty.tgz
 
 Guest utilities
 ===============
-http://github.com/downloads/citrix-openstack/warehouse/xe-guest-utilities_6.1.0-1033_i386.deb
+6.1 debs
+--------
+ * [i386](http://github.com/downloads/citrix-openstack/warehouse/xe-guest-utilities_6.1.0-1033_i386.deb)
+ * [amd64](http://github.com/downloads/citrix-openstack/warehouse/xe-guest-utilities_6.1.0-1033_amd64.deb)
 
-http://github.com/downloads/citrix-openstack/warehouse/xe-guest-utilities_6.1.0-1033_amd64.deb
-
-http://github.com/downloads/citrix-openstack/warehouse/xe-guest-utilities_5.6.100-651_i386.deb
-
-http://github.com/downloads/citrix-openstack/warehouse/xe-guest-utilities_5.6.100-651_amd64.deb
+5.6 debs
+--------
+ * [i386](http://github.com/downloads/citrix-openstack/warehouse/xe-guest-utilities_5.6.100-651_i386.deb)
+ * [amd64](http://github.com/downloads/citrix-openstack/warehouse/xe-guest-utilities_5.6.100-651_amd64.deb)
