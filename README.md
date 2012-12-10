@@ -7,6 +7,15 @@ tty.tgz
 =======
 http://github.com/downloads/citrix-openstack/warehouse/tty.tgz
 
+Cirros Image for OpenStack on XenServer
+=======================================
+This image is a cirros image (actually a tgz -ed vhd) for the XenServer/OpenStack combo.
+ * [cirros-0.3.0-x86_64-disk.vhd.tgz](https://github.com/downloads/citrix-openstack/warehouse/cirros-0.3.0-x86_64-disk.vhd.tgz)
+
+The instructions to create such image could be found at:
+ * [Convert a raw image to XenServer – VHD](http://blogs.citrix.com/2012/10/04/convert-a-raw-image-to-xenserver-vhd/)
+ * [Upload custom images to a XenServer powered OpenStack Cloud](http://blogs.citrix.com/2012/10/17/upload-custom-images-to-a-xenserver-powered-openstack-cloud/)
+
 
 Guest utilities
 ===============
